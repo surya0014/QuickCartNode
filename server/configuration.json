@@ -1,7 +1,0 @@
-{
-    "mongoDBURL":"mongodb://localhost/QuickCart",
-    "bcryptSecretKey": "your-secret-key",
-    "tokenExpiryTime": "1d",
-    "saltRounds": 10
-
-}
