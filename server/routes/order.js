@@ -46,7 +46,7 @@ router.post("/create-checkout-session", async function (req, res) {
     // success_url: "http://localhost:5000/payment",
     // cancel_url: "http://localhost:5000/cancel",
     success_url: "https://quickcartnode.onrender.com/payment",
-    cancel_url: " https://quickcartnode.onrender.com/cancel",
+    cancel_url: "https://quickcartnode.onrender.com/cancel",
    
   });
 
